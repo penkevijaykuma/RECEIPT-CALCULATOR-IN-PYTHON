@@ -1,0 +1,25 @@
+Receipt
+=====================================
+Date & Time: 2024-09-25 14:07:52
+Landline: 979-8855933
+-------------------------------------
+Product Name         Price(Rs.)      Qty   Total(Rs.)
+-------------------------------------
+RICE BAG             Rs.1500.00        1     Rs.1500.00   
+OIL CAN              Rs.1500.00        1     Rs.1500.00   
+WHEAT POWER          Rs.300.00         1     Rs.300.00    
+GREEN GRAMS          Rs.200.00         1     Rs.200.00    
+GROUNDNUTS           Rs.150.00         1     Rs.150.00    
+BAKING POWER         Rs.200.00         1     Rs.200.00    
+OATS                 Rs.200.00         1     Rs.200.00    
+MUSCLEBLAZE          Rs.2000.00        1     Rs.2000.00   
+SOAPS                Rs.50.00          10    Rs.500.00    
+CEREALS              Rs.400.00         1     Rs.400.00    
+GORDREJ AIR          Rs.200.00         1     Rs.200.00    
+=====================================
+Subtotal: Rs.7150.00
+Tax: Rs.572.00
+Discount: -Rs.715.00
+Total: Rs.7007.00
+=====================================
+***THANK YOU, VISIT AGAIN!***
